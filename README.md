@@ -1,7 +1,7 @@
 # What is a Mechanical Keyboard?
 
 
-[![what is a mechanical keyboard](redd.png)](https://github.com/tech-webie/what.is.a.mechanical.keyboard)
+[![what is a mechanical keyboard](redd.png)](https://icncomputer.com/what-is-a-mechanical-keyboard/)
 
 The mechanical keyboard is a keyboard produced with high quality with typically spring activated key switches. The switches under the keys is the main difference between the mechanical keyboard and ordinary keyboard. Simply to say, switches makes up mechanical keyboards.
 
